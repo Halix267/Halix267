@@ -23,8 +23,8 @@ I'm an Undergraduate Student currently undertaking a Bachelors in Computer Scien
   
 ### Thanks!! ✌️
 
-
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Halix267&layout=compact" alt="Halix267" />
+<a>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Halix267&layout=compact" alt="Halix267" />
  </a>
 
 
